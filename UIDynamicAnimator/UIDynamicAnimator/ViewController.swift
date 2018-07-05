@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    //проверка работы git
     //UICollisionBehavior - обнаружение столкновений
     //UIGravityBehavior - обеспечивает тяготение
     //UIPushBehavior - реагирует на толчки
